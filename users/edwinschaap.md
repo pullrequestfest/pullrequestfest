@@ -1,4 +1,4 @@
 # About
-I'm Edwin Schaap and joined PullRequestFest!
+I'm Edwin Schaap and I joined PullRequestFest!
 ## Stats
-I've created 8pullrequests
+I've created 16 pullrequests
